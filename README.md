@@ -5,3 +5,6 @@ Each project was created to practise and reinforce a specific concept in C++ pro
 ## 🗂️ Project List by Learning Outcome
 ### 🔤 Basics of a C++ Program 
 The following programs focus on the following core aspects:
+
+
+These mini-projects are designed to build confidence and fluency in writing, compiling, and running simple C++ programs.
