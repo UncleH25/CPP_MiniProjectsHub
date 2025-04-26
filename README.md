@@ -34,3 +34,5 @@ These mini-projects are designed to build confidence and fluency in writing, com
 *A simple C++ console application that generates a receipt for three products, calculating totals and including VAT.*
 
 *Prompts the user to enter the names, prices, and quantities of three products, calculates the total cost, adds 15.5% VAT, and prints a formatted receipt.*
+
+## 🧾 Mastering Input and Output in C++
