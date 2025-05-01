@@ -56,4 +56,4 @@ The following programs focus on the following input/output concepts:
 *Prompts the user to enter the entry and exit times in hours and minutes. It then calculates the total parking time, breaks it into full hours and remaining minutes, and applies the hourly and per-minute rates to generate the final fee.*
 
 ## Project 5
-[**Library Book Checkout System**](https://github.com/UncleH25/Library-Book-Checkout-System)
+[**Library Book Checkout System**](https://github.com/UncleH25/Library-Checkout-System)
