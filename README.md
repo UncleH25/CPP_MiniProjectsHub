@@ -57,3 +57,9 @@ The following programs focus on the following input/output concepts:
 
 ## Project 5
 [**Library Checkout System**](https://github.com/UncleH25/Library-Checkout-System)
+
+*A C++ console program that calculates and displays a checkout fee summary based on how long a book is borrowed and whether it is a textbook or not. The program collects user details and book information, then outputs a neatly formatted receipt.*
+
+*Prompts the user for their name, the book title, the number of days the book is due in, and whether the book is a textbook. It then calculates two possible fees: one for a normal book and one for a textbook—both based on fixed daily rates.*
+
+**Note: The program calculates both fees regardless of the actual book type. The user must refer to the correct one based on the Y/N input.**
