@@ -3,6 +3,8 @@ Welcome to the central repository for my small C++ projects!
 
 Each project was created to practise and reinforce a specific concept in C++ programming. This hub provides an easy way to navigate through them, understand their purpose, and see what was learnt in each.
 
+These mini-projects are designed to build confidence and fluency in writing, compiling, and running simple C++ programs.
+
 ## 🔤 Basics of a C++ Program 
 The following programs focus on the following core aspects:
 * Understanding the structure of a basic C++ program
@@ -12,8 +14,6 @@ The following programs focus on the following core aspects:
 * Accpeting user input with `cin` and displaying output with `cout`
 * Performing basic arithmetic operations (excluding the modulo operator)
 * Writing clean, well-commented code
-
-These mini-projects are designed to build confidence and fluency in writing, compiling, and running simple C++ programs.
 
 
 ### Project 1
@@ -35,4 +35,22 @@ These mini-projects are designed to build confidence and fluency in writing, com
 
 *Prompts the user to enter the names, prices, and quantities of three products, calculates the total cost, adds 15.5% VAT, and prints a formatted receipt.*
 
-## 🧾 Mastering Input and Output in C++
+## 🧾 Input and Output in C++
+The following programs focus on the following input/output concepts:
+* Using `cin` to read input from the user
+* Using `cout` to display output to the screen
+* Reading multiple inputs in a single line using the extraction operator `>>`
+* Skipping whitespace automatically with `cin` and understanding how it handles different data types
+* Reading characters (including spaces) using `cin.get()`
+* Handling input errors using `cin.clear()` and `cin.ignore()`
+* Formatting output with manipulators such as `setprecision`, `fixed`, `showpoint`, and `setw`
+* Reading full lines of text using `getline()`
+* Using `cout` to debug logic errors during development
+
+
+## Project 4
+[**Parking Fee Calculator**](https://github.com/UncleH25/Parking-Fee-Calculator)
+
+*A simple C++ console application that calculates the total parking fee based on the entry and exit times. It displays a neatly formatted receipt showing the total time parked and the amount due.*
+
+*Prompts the user to enter the entry and exit times in hours and minutes. It then calculates the total parking time, breaks it into full hours and remaining minutes, and applies the hourly and per-minute rates to generate the final fee.*
