@@ -76,3 +76,6 @@ The following programs focus on the following input/output concepts:
 *Power Calculator: Prompts the user for a base and an exponent, then computes the result using the `pow()` function from the `<cmath>` library.*
 
 *Character Analysis: Takes a single character as input and displays its ASCII value, the character that comes before it, and the one that comes after it.*
+
+## Project 7
+[**Expense Tracker With File I/O**](https://github.com/UncleH25/Expense-Tracker)
