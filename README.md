@@ -66,3 +66,13 @@ The following programs focus on the following input/output concepts:
 
 ## Project 6
 [**Power And Character Converter**](https://github.com/UncleH25/Power-And-Character-Converter)
+
+*A C++ console application that performs two separate functions:*
+
+*1. Calculates the result of raising a base to an exponent using the `pow()` function.*
+
+*2. Accepts a character input and displays its ASCII value, as well as the previous and next characters.*
+
+*Power Calculator: Prompts the user for a base and an exponent, then computes the result using the `pow()` function from the `<cmath>` library.*
+
+*Character Analysis: Takes a single character as input and displays its ASCII value, the character that comes before it, and the one that comes after it.*
