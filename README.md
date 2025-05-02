@@ -63,3 +63,6 @@ The following programs focus on the following input/output concepts:
 *Prompts the user for their name, the book title, the number of days the book is due in, and whether the book is a textbook. It then calculates two possible fees: one for a normal book and one for a textbook—both based on fixed daily rates.*
 
 **Note: The program calculates both fees regardless of the actual book type. The user must refer to the correct one based on the Y/N input.**
+
+## Project 6
+[**Power And Character Converter**](https://github.com/UncleH25/Power-And-Character-Converter)
