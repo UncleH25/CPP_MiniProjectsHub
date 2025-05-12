@@ -85,3 +85,19 @@ The following programs focus on the following input/output concepts:
 *It reads expense categories and amounts from a file, calculates a 15% VAT for each item, adds it to the amount, and writes a detailed receipt to a separate file. It also calculates the overall total including VAT.*
 
 *The receipt is formatted into columns using I/O manipulators to ensure clean and readable output.*
+
+## 🔀 Introduction to Control Structures (Selection)
+
+The following programs focus on learning how to make decisions in a program using conditional logic:
+* Using `if` statements for one-way selection (run only if a condition is true)
+* Using `if...else` statements for two-way selection (choose between two paths)
+* Comparing values using relational operators like `==`, `!=`, `<`, `>`, `<=`, and `>=`
+* Working with logical operators `&&`, `||`, and `!` to combine conditions
+* Using `char`, `int`, `double`, and `string` values in comparisons
+* Nesting `if` statements to handle multiple alternatives
+* Applying `bool` variables and expressions that evaluate to `true` or `false`
+* Using input stream validation with `if (!inData)` to check if a file opened correctly
+* Writing compound statements using `{}` to group multiple actions under a single condition
+* Formatting output conditionally to enhance readability
+
+## Project 8
