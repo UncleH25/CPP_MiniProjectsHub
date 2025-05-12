@@ -101,3 +101,8 @@ The following programs focus on learning how to make decisions in a program usin
 * Formatting output conditionally to enhance readability
 
 ## Project 8
+[**Fever & Age Health Checker**](https://github.com/UncleH25/Health-Check-Analyser)
+
+*A simple C++ console program that checks if a user is a minor or an adult, and whether they have a fever based on their temperature.* 
+
+*It outputs an appropriate message based on both conditions and handles invalid input safely.*
