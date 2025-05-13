@@ -106,3 +106,8 @@ The following programs focus on learning how to make decisions in a program usin
 *A simple C++ console program that checks if a user is a minor or an adult, and whether they have a fever based on their temperature.* 
 
 *It outputs an appropriate message based on both conditions and handles invalid input safely.*
+
+## Project 9
+[**Student Grading System**](https://github.com/UncleH25/Student-Grading-System)
+
+*A simple C++ program that determines a student’s letter grade based on a given percentage score and displays it using a `switch` statement. The program also validates input using an assertion.*
