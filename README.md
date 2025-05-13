@@ -111,3 +111,8 @@ The following programs focus on learning how to make decisions in a program usin
 [**Student Grading System**](https://github.com/UncleH25/Student-Grading-System)
 
 *A simple C++ program that determines a student’s letter grade based on a given percentage score and displays it using a `switch` statement. The program also validates input using an assertion.*
+
+## Project 10
+[**Food Order Billing System**](https://github.com/UncleH25/Food-Order-Billing-System)
+
+*A C++ program that simulates a basic food ordering and billing system. It allows users to select an item from a fixed menu, input the desired quantity, calculates the total cost, and applies a discount if applicable.*
