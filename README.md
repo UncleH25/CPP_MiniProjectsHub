@@ -121,3 +121,20 @@ The following programs focus on learning how to make decisions in a program usin
 [**Age Validator**](https://github.com/UncleH25/Age-Validator)
 
 *A C++ program that reads a user's name and age from an input file (`input.txt`), determines their access level based on age, and writes the result to an output file (`access.txt`).*
+
+## 🔁 Repetition Structures in C++
+
+The following programs focus on repetition (looping) structures, which allow certain actions to be performed multiple times based on conditions.
+* Using `while` loops for repeating actions while a condition remains true
+* Designing counter-controlled, sentinel-controlled, flag-controlled, and EOF-controlled `while` loops
+* Understanding how to initialize, test, and update loop control variables
+* Using `for` loops when the number of repetitions is known in advance
+* Using `do...while` loops for actions that must run at least once (common in input validation)
+* Choosing the correct loop type based on the situation
+* Controlling loop flow using `break` (to exit early) and `continue` (to skip to the next iteration)
+* Using nested loops for repeated actions within repeated actions
+* Debugging loops using tools like variable tracing and loop invariants
+* Avoiding infinite loops by properly updating conditions and loop variables
+
+## Project 12
+[**ATM Withdrawal Simulator**](https://github.com/UncleH25/ATM-Withdrawal-Simulator)
