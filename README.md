@@ -138,3 +138,10 @@ The following programs focus on repetition (looping) structures, which allow cer
 
 ## Project 12
 [**ATM Withdrawal Simulator**](https://github.com/UncleH25/ATM-Withdrawal-Simulator)
+
+*A C++ console program that simulates a simple ATM withdrawal system. Users can repeatedly withdraw money from their account until they choose to exit, while the program applies transaction fees and validates balance limits.*
+
+## Project 13
+[**Sales Performance Tracker**](https://github.com/UncleH25/Sales-Performance-Tracker)
+
+*A C++ program that reads sales data from an input file, evaluates performance based on the amount sold, and writes a neatly formatted report with a status label to an output file.*
