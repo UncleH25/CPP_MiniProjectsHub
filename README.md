@@ -145,3 +145,8 @@ The following programs focus on repetition (looping) structures, which allow cer
 [**Sales Performance Tracker**](https://github.com/UncleH25/Sales-Performance-Tracker)
 
 *A C++ program that reads sales data from an input file, evaluates performance based on the amount sold, and writes a neatly formatted report with a status label to an output file.*
+
+## Project 14
+[**Calender Day Counter**](https://github.com/UncleH25/Calendar-Day-Counter)
+
+*A C++ program that determines the number of days in a given month and year. It supports leap year detection for February and allows users to repeat the process for multiple inputs.*
