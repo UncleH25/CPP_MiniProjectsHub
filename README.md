@@ -150,3 +150,8 @@ The following programs focus on repetition (looping) structures, which allow cer
 [**Calender Day Counter**](https://github.com/UncleH25/Calendar-Day-Counter)
 
 *A C++ program that determines the number of days in a given month and year. It supports leap year detection for February and allows users to repeat the process for multiple inputs.*
+
+## Project 15
+[**Number Analyzer Tool**](https://github.com/UncleH25/Number-Analyzer-Tool)
+
+*A C++ program that reads a sequence of integers from the user and analyzes them to determine statistics like the number of even, odd, positive, and negative values, along with the minimum and maximum. Input ends when the user enters `0`.*
